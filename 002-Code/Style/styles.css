@@ -1,0 +1,32 @@
+
+.row {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#image_1 {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+
+#bubble-chart
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right:auto;
+  width: 90%;
+  position: relative;
+} 
+
+  
+
+
